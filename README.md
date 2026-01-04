@@ -12,6 +12,7 @@ Integrated from the following GEO series:
 - **GSE223156**
 - **GSE49329**
 - **GSE65067**
+- Data type: RNA-seq (GEO: Expression profiling by high throughput sequencing).
 
 ---
 
