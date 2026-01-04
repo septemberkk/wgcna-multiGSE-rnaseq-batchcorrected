@@ -47,3 +47,28 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# R junk
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Big WGCNA intermediates
+**/TOM*
+**/*TOM*
+**/adjacency*
+**/*adjacency*
+**/*_TOM_*.RData
+**/*.block.1.RData
+**/*.block.*.RData
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
+# Python junk (if any)
+__pycache__/
+.ipynb_checkpoints/
+
+
