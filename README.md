@@ -49,8 +49,3 @@ QC figures (before vs after batch correction) are stored under:
 
 ---
 
-## Outputs
-
-- `results/Sample_clustering`
-- `results/figures/dendrogram_modules.png`
-- `results/heatmap.png`
